@@ -8,17 +8,21 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\prima\\.nuget\\packages\\": {}
+    "C:\\Users\\prima\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\prima\\OneDrive\\Zocom\\ITHS\\AvanceradC-sharp\\Blandad Kod\\Galleriet\\Galleriet.csproj",
+      "projectUniqueName": "E:\\OneDrive\\Zocom\\ITHS\\AvanceradC-sharp\\GIT-Micke\\Galleriet\\Galleriet\\Galleriet.csproj",
       "projectName": "Galleriet",
-      "projectPath": "C:\\Users\\prima\\OneDrive\\Zocom\\ITHS\\AvanceradC-sharp\\Blandad Kod\\Galleriet\\Galleriet.csproj",
+      "projectPath": "E:\\OneDrive\\Zocom\\ITHS\\AvanceradC-sharp\\GIT-Micke\\Galleriet\\Galleriet\\Galleriet.csproj",
       "packagesPath": "C:\\Users\\prima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\prima\\OneDrive\\Zocom\\ITHS\\AvanceradC-sharp\\Blandad Kod\\Galleriet\\obj\\",
+      "outputPath": "E:\\OneDrive\\Zocom\\ITHS\\AvanceradC-sharp\\GIT-Micke\\Galleriet\\Galleriet\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\prima\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -63,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

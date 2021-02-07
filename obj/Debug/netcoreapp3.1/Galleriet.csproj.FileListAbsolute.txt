@@ -35,3 +35,40 @@ C:\Users\prima\OneDrive\Zocom\ITHS\AvanceradC-sharp\Blandad Kod\Galleriet\obj\De
 C:\Users\prima\OneDrive\Zocom\ITHS\AvanceradC-sharp\Blandad Kod\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.pdb
 C:\Users\prima\OneDrive\Zocom\ITHS\AvanceradC-sharp\Blandad Kod\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.genruntimeconfig.cache
 C:\Users\prima\OneDrive\Zocom\ITHS\AvanceradC-sharp\Blandad Kod\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.csproj.CopyComplete
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\bin\Debug\netcoreapp3.1\appsettings.json
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\bin\Debug\netcoreapp3.1\Galleriet.exe
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\bin\Debug\netcoreapp3.1\Galleriet.deps.json
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\bin\Debug\netcoreapp3.1\Galleriet.runtimeconfig.json
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\bin\Debug\netcoreapp3.1\Galleriet.runtimeconfig.dev.json
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\bin\Debug\netcoreapp3.1\Galleriet.dll
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\bin\Debug\netcoreapp3.1\Galleriet.pdb
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\bin\Debug\netcoreapp3.1\Galleriet.Views.dll
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\bin\Debug\netcoreapp3.1\Galleriet.Views.pdb
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.csprojAssemblyReference.cache
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.AssemblyInfoInputs.cache
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.AssemblyInfo.cs
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.csproj.CoreCompileInputs.cache
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.RazorAssemblyInfo.cache
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.RazorAssemblyInfo.cs
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\staticwebassets\Galleriet.StaticWebAssets.Manifest.cache
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\staticwebassets\Galleriet.StaticWebAssets.xml
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\scopedcss\bundle\Galleriet.styles.css
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.TagHelpers.input.cache
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.TagHelpers.output.cache
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.RazorCoreGenerate.cache
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.RazorTargetAssemblyInfo.cache
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.RazorTargetAssemblyInfo.cs
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.Views.pdb
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.dll
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.pdb
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.genruntimeconfig.cache
+E:\OneDrive\Zocom\ITHS\AvanceradC-sharp\GIT-Micke\Galleriet\Galleriet\obj\Debug\netcoreapp3.1\Galleriet.csproj.CopyComplete
